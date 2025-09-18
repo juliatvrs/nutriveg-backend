@@ -1,0 +1,5 @@
+#ignorar dependências do node.js
+/node_modules
+
+#ignorar arquivo de ambiente
+.env
